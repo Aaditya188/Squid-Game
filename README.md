@@ -1,7 +1,7 @@
 # Squid Game
 ## Red Light Green Light
 
-Simple game based of on a popular Netfilx seires called "Squid Game".
+Simple game based on a popular Netfilx seires called "Squid Game".
 
 ## [Play Game Here](https://aaditya188.github.io/Squid-Game/)
 
